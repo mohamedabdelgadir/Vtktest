@@ -1,1 +1,2 @@
 # Vtktest
+import vtk 
